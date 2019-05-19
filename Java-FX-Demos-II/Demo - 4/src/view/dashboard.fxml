@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root" prefHeight="192.0" prefWidth="600.0" stylesheets="@style/dashboard.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DashboardController">
+   <children>
+      <Label id="lbl1" fx:id="lblTitle" layoutX="140.0" layoutY="32.0" text="Dashboard - Java FX Demo 4">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Button layoutX="231.0" layoutY="86.0" mnemonicParsing="false" onAction="#btnManageCustomer_OnAction" text="Manage Customers" />
+      <Button layoutX="231.0" layoutY="121.0" mnemonicParsing="false" onAction="#btnManageItems_OnAction" prefHeight="28.0" prefWidth="138.0" text="Manage Items" />
+   </children>
+</AnchorPane>

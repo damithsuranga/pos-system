@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="122.0" prefWidth="196.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.AlertsController">
+   <children>
+      <Button layoutX="14.0" layoutY="29.0" mnemonicParsing="false" onAction="#btnShowMsg_OnAction" prefHeight="28.0" prefWidth="162.0" text="Show Message Box" />
+      <Button layoutX="14.0" layoutY="67.0" mnemonicParsing="false" onAction="#btnShowConfirm_OnAction" text="Show Confirmation Box" />
+   </children>
+</AnchorPane>

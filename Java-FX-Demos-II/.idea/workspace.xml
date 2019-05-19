@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57770023-ae8b-42d9-92b9-15bb12652139" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="JDBC@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobileworld@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1005872268">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="207" />
+          <entry key="project.open.time.0" value="27" />
+          <entry key="project.open.time.1" value="146" />
+          <entry key="project.open.time.2" value="23" />
+          <entry key="project.open.time.3" value="10" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="207" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="fxml" value="5" />
+          <entry key="java" value="257" />
+          <entry key="png" value="2" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="257" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="22" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="22" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java-FX-Demos-II" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/ManageCustomerFormController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="120" column="67" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/OrderDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/OrderDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/OrderBOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/PlaceOrderFormController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1064">
+              <caret line="182" column="47" selection-start-line="182" selection-start-column="47" selection-end-line="182" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/CustomerBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/OrderBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/ItemBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/BOTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/DAOFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>AppI</find>
+      <find>btnPlace</find>
+      <find>btn</find>
+      <find>btnSave</find>
+      <find>btnDeleteOn</find>
+      <find>btnSave_</find>
+      <find>Item</find>
+      <find>item</find>
+      <find>order</find>
+      <find>customer</find>
+      <find>generateO</find>
+      <find>btnAdd</find>
+      <find>generat</find>
+      <find>gen</find>
+      <find>equals</find>
+      <find>hashCode</find>
+      <find>lblOrderID</find>
+      <find>new CustomerBO</find>
+      <find>CustomerBO customerBO = new CustomerBO();</find>
+      <find>ItemBO itemBO = new ItemBO();</find>
+      <find>OrderBO orderBO = new OrderBO();</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>item</replace>
+      <replace>Order</replace>
+      <replace>order</replace>
+      <replace>orderDetail</replace>
+      <replace>entity</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/CrudDAO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/CustomerDAO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/CustomerDAOTest.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/entity/CustomEntity.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/ItemBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dto/OrderDetailsDTO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dto/OrderDetailDTO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/OrderDAO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/view/PlaceOrderForm.fxml" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/OrderBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/DAOTypes.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/TestVarArgs.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/CrudUtil.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/impl/CustomerDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/TestBoxing.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/MyInterface.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/StringTest.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/Demo.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/impl/ItemDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/ABC.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/CustomerBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/impl/CustomerBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/impl/OrderBOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/ItemBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/OrderBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/BOTypes.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/BOFactory.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/controller/ManageItemFormController.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/controller/ManageCustomerFormController.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/CustomerBOTest.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/impl/OrderDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/dao/custom/impl/OrderDetailDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/CustomerBO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/controller/PlaceOrderFormController.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/StreamTest.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/impl/CustomerBOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/business/custom/impl/ItemBOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/application.properties" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/test/ExternalResourceTest.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/db/DBConnection.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/MainForm.fxml" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/ManageCustomerForm.fxml" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/ManageItemForm.fxml" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/PlaceOrderForm.fxml" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/db/DBConnection.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/CustomerDAO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/CrudDAO.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/DAOFactory.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/CustomerBOImpl.java" />
+        <option value="$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/ItemBOImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="669" />
+    <option name="width" value="1216" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-FX-Demos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo - 7 POS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pos" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558239370874" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Demo - 7 POS/src/business" />
+    <property name="last_opened_file_path" value="E:/libs/org-apache-commons-logging.jar!/" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="business.custom.impl" />
+      <recent name="dao.custom" />
+      <recent name="dao.impl" />
+      <recent name="main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Demo - 7 POS/src" />
+      <recent name="$PROJECT_DIR$/Demo - 4/src/view" />
+      <recent name="$PROJECT_DIR$/Demo - 4/src/asset" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppInitializer (1)">
+    <configuration name="AppInitializer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.pos.main.AppInitializer" />
+      <module name="Demo - 7 POS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.pos.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.AppInitializer" />
+      <module name="Demo - 7 POS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerBOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomerBOTest" />
+      <module name="Demo - 7 POS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExternalResourceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExternalResourceTest" />
+      <module name="Demo - 7 POS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamTest" />
+      <module name="Demo - 7 POS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppInitializer" />
+      <item itemvalue="Application.AppInitializer (1)" />
+      <item itemvalue="Application.CustomerBOTest" />
+      <item itemvalue="Application.ExternalResourceTest" />
+      <item itemvalue="Application.StreamTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer (1)" />
+        <item itemvalue="Application.AppInitializer" />
+        <item itemvalue="Application.ExternalResourceTest" />
+        <item itemvalue="Application.StreamTest" />
+        <item itemvalue="Application.CustomerBOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57770023-ae8b-42d9-92b9-15bb12652139" name="Default Changelist" comment="" />
+      <created>1552365256770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552365256770</updated>
+      <workItem from="1552365258379" duration="14955000" />
+      <workItem from="1552458385780" duration="1350000" />
+      <workItem from="1552467430346" duration="3109000" />
+      <workItem from="1552470657797" duration="398000" />
+      <workItem from="1552472519822" duration="987000" />
+      <workItem from="1552536684361" duration="4212000" />
+      <workItem from="1552560996611" duration="1260000" />
+      <workItem from="1552630769178" duration="682000" />
+      <workItem from="1552632039705" duration="5127000" />
+      <workItem from="1552643742669" duration="3165000" />
+      <workItem from="1552968680594" duration="18902000" />
+      <workItem from="1552995468980" duration="26000" />
+      <workItem from="1553158777617" duration="8000" />
+      <workItem from="1553158798656" duration="12000" />
+      <workItem from="1553490319596" duration="2306000" />
+      <workItem from="1553492700317" duration="2075000" />
+      <workItem from="1553495906361" duration="10265000" />
+      <workItem from="1553567658846" duration="2831000" />
+      <workItem from="1553574743652" duration="15617000" />
+      <workItem from="1553601243644" duration="124000" />
+      <workItem from="1553654080652" duration="633000" />
+      <workItem from="1553658123047" duration="21397000" />
+      <workItem from="1553705928790" duration="2700000" />
+      <workItem from="1553742629640" duration="1979000" />
+      <workItem from="1553748145183" duration="4903000" />
+      <workItem from="1554005452735" duration="1309000" />
+      <workItem from="1554008530384" duration="44000" />
+      <workItem from="1554008816839" duration="100000" />
+      <workItem from="1554011232220" duration="19000" />
+      <workItem from="1554011907773" duration="684000" />
+      <workItem from="1554013289966" duration="2227000" />
+      <workItem from="1554018820256" duration="279000" />
+      <workItem from="1554020816765" duration="167000" />
+      <workItem from="1554026354600" duration="5000" />
+      <workItem from="1554039261485" duration="554000" />
+      <workItem from="1554039865483" duration="8000" />
+      <workItem from="1554040246256" duration="85000" />
+      <workItem from="1554040870309" duration="31000" />
+      <workItem from="1554040933403" duration="30000" />
+      <workItem from="1554041264688" duration="177000" />
+      <workItem from="1554041610395" duration="10000" />
+      <workItem from="1554043291877" duration="22000" />
+      <workItem from="1554043359864" duration="15000" />
+      <workItem from="1554043888660" duration="51000" />
+      <workItem from="1554044829915" duration="46000" />
+      <workItem from="1554045992256" duration="24000" />
+      <workItem from="1554046311275" duration="1147000" />
+      <workItem from="1554047821053" duration="94000" />
+      <workItem from="1554048302231" duration="118000" />
+      <workItem from="1554053068883" duration="888000" />
+      <workItem from="1554056958110" duration="8000" />
+      <workItem from="1554057276193" duration="395000" />
+      <workItem from="1554057910207" duration="120000" />
+      <workItem from="1554058754865" duration="755000" />
+      <workItem from="1554062170683" duration="47000" />
+      <workItem from="1554062532206" duration="43000" />
+      <workItem from="1554063333035" duration="10000" />
+      <workItem from="1554083593740" duration="87000" />
+      <workItem from="1554083756751" duration="35000" />
+      <workItem from="1554085593550" duration="246000" />
+      <workItem from="1554092562065" duration="111000" />
+      <workItem from="1554092805322" duration="19000" />
+      <workItem from="1554093832744" duration="63000" />
+      <workItem from="1554093921066" duration="63000" />
+      <workItem from="1554094394539" duration="124000" />
+      <workItem from="1554094601764" duration="11000" />
+      <workItem from="1554094644233" duration="40000" />
+      <workItem from="1554094784030" duration="9000" />
+      <workItem from="1554094981799" duration="34000" />
+      <workItem from="1554095071217" duration="30000" />
+      <workItem from="1554095252224" duration="101000" />
+      <workItem from="1554095476437" duration="64000" />
+      <workItem from="1554095579560" duration="33000" />
+      <workItem from="1554095640558" duration="11000" />
+      <workItem from="1554095685481" duration="32000" />
+      <workItem from="1554095826728" duration="9000" />
+      <workItem from="1554096365337" duration="31000" />
+      <workItem from="1554097234408" duration="127000" />
+      <workItem from="1554098638493" duration="315000" />
+      <workItem from="1554099805497" duration="113000" />
+      <workItem from="1554101104674" duration="127000" />
+      <workItem from="1554101288504" duration="57000" />
+      <workItem from="1554101395666" duration="31000" />
+      <workItem from="1554101612425" duration="49000" />
+      <workItem from="1554101743386" duration="25000" />
+      <workItem from="1554102278814" duration="24000" />
+      <workItem from="1554102438950" duration="12000" />
+      <workItem from="1554102557935" duration="85000" />
+      <workItem from="1554102711994" duration="37000" />
+      <workItem from="1554102784100" duration="9000" />
+      <workItem from="1554102863954" duration="15000" />
+      <workItem from="1554103014236" duration="63000" />
+      <workItem from="1554111226782" duration="544000" />
+      <workItem from="1554112782396" duration="54000" />
+      <workItem from="1554112912827" duration="491000" />
+      <workItem from="1554113424746" duration="324000" />
+      <workItem from="1554113829655" duration="55000" />
+      <workItem from="1554113948205" duration="6000" />
+      <workItem from="1554114051819" duration="46000" />
+      <workItem from="1554114155876" duration="5000" />
+      <workItem from="1554114279795" duration="21000" />
+      <workItem from="1554114343350" duration="7000" />
+      <workItem from="1554114632648" duration="45000" />
+      <workItem from="1554114787566" duration="100000" />
+      <workItem from="1554126710774" duration="54000" />
+      <workItem from="1554127183357" duration="15000" />
+      <workItem from="1554127442103" duration="77000" />
+      <workItem from="1554131258870" duration="550000" />
+      <workItem from="1554137886128" duration="1820000" />
+      <workItem from="1554141591699" duration="25000" />
+      <workItem from="1554170681132" duration="32000" />
+      <workItem from="1554171864794" duration="602000" />
+      <workItem from="1554176518734" duration="371000" />
+      <workItem from="1554183685759" duration="287000" />
+      <workItem from="1554184046975" duration="47000" />
+      <workItem from="1554184175268" duration="188000" />
+      <workItem from="1554185694228" duration="199000" />
+      <workItem from="1554189528550" duration="150000" />
+      <workItem from="1554194791380" duration="79000" />
+      <workItem from="1554204756955" duration="114000" />
+      <workItem from="1554206057773" duration="237000" />
+      <workItem from="1554207055619" duration="3000" />
+      <workItem from="1554211628706" duration="164000" />
+      <workItem from="1554212845076" duration="28000" />
+      <workItem from="1554212926972" duration="53000" />
+      <workItem from="1554215209529" duration="49000" />
+      <workItem from="1554222800286" duration="174000" />
+      <workItem from="1554223055773" duration="16000" />
+      <workItem from="1554223117587" duration="41000" />
+      <workItem from="1554223757920" duration="410000" />
+      <workItem from="1554224662652" duration="911000" />
+      <workItem from="1554225967791" duration="79000" />
+      <workItem from="1554272172338" duration="9000" />
+      <workItem from="1554275784184" duration="1688000" />
+      <workItem from="1554277792250" duration="61000" />
+      <workItem from="1554280841586" duration="296000" />
+      <workItem from="1554281463600" duration="15000" />
+      <workItem from="1554281649266" duration="64000" />
+      <workItem from="1554282007643" duration="94000" />
+      <workItem from="1554282104703" duration="8000" />
+      <workItem from="1554282288773" duration="27000" />
+      <workItem from="1554288426291" duration="39000" />
+      <workItem from="1554288903290" duration="33000" />
+      <workItem from="1554289562081" duration="17000" />
+      <workItem from="1554297089444" duration="93000" />
+      <workItem from="1554304649500" duration="169000" />
+      <workItem from="1554305366804" duration="144000" />
+      <workItem from="1554305725244" duration="251000" />
+      <workItem from="1554306102348" duration="3000" />
+      <workItem from="1554310250902" duration="44000" />
+      <workItem from="1554315580242" duration="82000" />
+      <workItem from="1554346742151" duration="24000" />
+      <workItem from="1554397053997" duration="79000" />
+      <workItem from="1554398167932" duration="591000" />
+      <workItem from="1554399226029" duration="753000" />
+      <workItem from="1554402766453" duration="558000" />
+      <workItem from="1554403431466" duration="61000" />
+      <workItem from="1554403854495" duration="25000" />
+      <workItem from="1554404127030" duration="23000" />
+      <workItem from="1554484151602" duration="105000" />
+      <workItem from="1554494620489" duration="79000" />
+      <workItem from="1554494845246" duration="39000" />
+      <workItem from="1554495033181" duration="166000" />
+      <workItem from="1554495771177" duration="177000" />
+      <workItem from="1554496027955" duration="33000" />
+      <workItem from="1554496103304" duration="24000" />
+      <workItem from="1554496131519" duration="5000" />
+      <workItem from="1554496183668" duration="32000" />
+      <workItem from="1554496261278" duration="20000" />
+      <workItem from="1554496337897" duration="33000" />
+      <workItem from="1554496411788" duration="27000" />
+      <workItem from="1554614247638" duration="1782000" />
+      <workItem from="1554617112642" duration="2919000" />
+      <workItem from="1554654630202" duration="28000" />
+      <workItem from="1554695819149" duration="653000" />
+      <workItem from="1554718347679" duration="110000" />
+      <workItem from="1554718499025" duration="117000" />
+      <workItem from="1554718739385" duration="26000" />
+      <workItem from="1554719310774" duration="45000" />
+      <workItem from="1554990583707" duration="83000" />
+      <workItem from="1554995149800" duration="102000" />
+      <workItem from="1555042622342" duration="76000" />
+      <workItem from="1555082106364" duration="222000" />
+      <workItem from="1555082631550" duration="36000" />
+      <workItem from="1555304402638" duration="3806000" />
+      <workItem from="1555551161011" duration="20000" />
+      <workItem from="1555592622066" duration="306000" />
+      <workItem from="1555901026949" duration="47000" />
+      <workItem from="1555927332150" duration="51000" />
+      <workItem from="1555929089554" duration="48000" />
+      <workItem from="1555943683813" duration="51000" />
+      <workItem from="1556111957817" duration="46000" />
+      <workItem from="1556126104903" duration="34000" />
+      <workItem from="1556126641144" duration="30000" />
+      <workItem from="1556127465249" duration="25000" />
+      <workItem from="1556128050077" duration="50000" />
+      <workItem from="1556128296797" duration="18000" />
+      <workItem from="1556129301975" duration="13000" />
+      <workItem from="1556130596510" duration="26000" />
+      <workItem from="1556220904753" duration="747000" />
+      <workItem from="1556253060309" duration="76000" />
+      <workItem from="1556255105071" duration="15000" />
+      <workItem from="1556258975167" duration="67000" />
+      <workItem from="1556263896240" duration="581000" />
+      <workItem from="1556265400898" duration="13000" />
+      <workItem from="1556265489172" duration="8000" />
+      <workItem from="1556266603850" duration="25000" />
+      <workItem from="1556315402628" duration="85000" />
+      <workItem from="1556316182763" duration="57000" />
+      <workItem from="1556316654931" duration="59000" />
+      <workItem from="1556375182407" duration="237000" />
+      <workItem from="1556375578440" duration="12000" />
+      <workItem from="1556382573537" duration="20000" />
+      <workItem from="1556382807768" duration="94000" />
+      <workItem from="1556383327239" duration="30000" />
+      <workItem from="1556383852394" duration="77000" />
+      <workItem from="1556385476691" duration="14000" />
+      <workItem from="1556387651667" duration="32000" />
+      <workItem from="1556424174065" duration="113000" />
+      <workItem from="1556427331152" duration="169000" />
+      <workItem from="1556427589104" duration="72000" />
+      <workItem from="1556427866998" duration="13000" />
+      <workItem from="1556427974207" duration="25000" />
+      <workItem from="1556428100254" duration="10000" />
+      <workItem from="1556428279363" duration="91000" />
+      <workItem from="1556428734965" duration="8000" />
+      <workItem from="1556431887200" duration="279000" />
+      <workItem from="1556911180553" duration="30000" />
+      <workItem from="1557844892303" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="159188000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49893618" visible="true" weight="0.18656716" />
+      <window_info id="Structure" order="1" sideWeight="0.5010638" side_tool="true" weight="0.28624734" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010638" side_tool="true" weight="0.28624734" />
+      <window_info id="Learn" order="7" weight="0.32952815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.51184833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35851064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.685624" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.328594" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.15031983" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32952815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.51184833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35851064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.685624" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.328594" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.18569255" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dto/ItemDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/QueryDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/asset/customers.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dto/CustomerDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dto/OrderDetailDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dto/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/MainForm.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/ManageCustomerForm.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/ManageItemForm.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/style/managecustomerform.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/style/manageitemform.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/view/style/mainform.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/SuperEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a48872ce-0bc2-430e-9652-5376e74d27a6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/ItemDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/ManageItemFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="190" column="11" selection-start-line="190" selection-start-column="11" selection-end-line="190" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/MainFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/main/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="38" selection-start-line="17" selection-start-column="3" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/QueryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/DAOTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/ItemBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/ItemDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/OrderDetailPK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/SuperDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/OrderDetailDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/util/CustomerTM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/util/ItemTM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/util/OrderDetailTM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/OrderDetailDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/CustomerDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/db/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/BOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/SuperBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/CustomerBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/CustomerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/entity/CustomEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/CrudUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/CrudDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/ManageCustomerFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="120" column="67" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/impl/OrderDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/custom/OrderDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/impl/OrderBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/CustomerBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/OrderBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/custom/ItemBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/business/BOTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/dao/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - 7 POS/src/lk/ijse/pos/controller/PlaceOrderFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="182" column="47" selection-start-line="182" selection-start-column="47" selection-end-line="182" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Demo - 7 POS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-collections-3.2.1-1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
